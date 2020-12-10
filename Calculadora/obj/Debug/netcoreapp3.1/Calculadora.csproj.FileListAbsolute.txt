@@ -1,0 +1,9 @@
+D:\Archivos de programa\deber1\Deber\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+D:\Archivos de programa\deber1\Deber\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+D:\Archivos de programa\deber1\Deber\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+D:\Archivos de programa\deber1\Deber\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csprojAssemblyReference.cache
+D:\Archivos de programa\deber1\Deber\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+D:\Archivos de programa\deber1\Deber\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+D:\Archivos de programa\deber1\Deber\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+D:\Archivos de programa\deber1\Deber\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+D:\Archivos de programa\deber1\Deber\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
